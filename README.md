@@ -10,6 +10,12 @@
 </br>
 
 
+</br>
+
+[📥 RESUME](docs/ChoiGwanghun_resume.pdf)
+
+
+
 
 ## 📄 Skills
 [![My Skills](https://skillicons.dev/icons?i=java,spring,gradle,html,js,jquery,jenkins,linux,mysql,rabbitmq,redis,)](https://skillicons.dev)
