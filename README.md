@@ -1,6 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule&fontSize=90)
 
-## 🌱 Choi Gwanghun  
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Huni's%20GitHub%20Profile&descAlignY=51&descAlign=62)
+<div align="center">
+<h3 align="center"> 🌱백엔드 개발자🌱</h3>
+
+<p align="center">
+💡 백엔드 개발자로서의 여정은 단순히 코드를 작성하는 것을 넘어서,  <br/> 시스템의 핵심을 이해하고,  <br/>사용자와 비즈니스에 실질적인 가치를 제공하는 데 중점을 두고 있습니다.  <br/>매일매일 기술적인 도전에 직면하며, 문제 해결을 통해 끊임없이 발전해 나가고자 하는 열정이 제 원동력입니다. <br/>
+프로그래밍을 잘하는 것을 넘어, 어떤 상황에 마주하여도 대응할 수 있는 <br/> “문제를 해결하는 백엔드 개발자”가 될 것입니다.
+</p>
+</br>
 
 
 
