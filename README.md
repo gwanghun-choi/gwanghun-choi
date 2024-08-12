@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+
+## 📄 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 📬 Contact
+For any inquiries, please contact [choi_huni@naver.com](mailto:choi_huni@naver.com).
+
+
+
 <!--
 **gwanghun-choi/gwanghun-choi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
