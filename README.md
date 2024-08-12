@@ -12,9 +12,9 @@
 
 </br>
 
-[📥 RESUME](docs/ChoiGwanghun_resume.pdf)
+[📥 RESUME](ChoiGwanghun_resume.pdf)
 
-
+</br>
 
 
 ## 📄 Skills
