@@ -2,13 +2,13 @@
 
 <div align="center">
 
-### 안녕하세요, 백엔드 개발자 최광훈입니다 👋
+### Backend Developer
 
-Java Spring 기반의 업무 시스템과 API 개발을 중심으로,  
-최근에는 **AI/RAG 기반 업무 자동화**, **LLM 서비스 연동**, **비동기 Worker 구조**까지 경험을 확장하고 있습니다.
+Java Spring 기반 업무 시스템과 REST API 개발을 중심으로,  
+최근에는 AI/RAG 기반 업무 자동화, LLM 서비스 연동, 비동기 Worker 구조까지 경험을 확장하고 있습니다.
 
 단순히 기능을 구현하는 개발자가 아니라,  
-**문제의 원인을 분석하고 운영 가능한 구조로 개선하는 백엔드 개발자**를 지향합니다.
+문제의 원인을 분석하고 운영 가능한 구조로 개선하는 백엔드 개발자를 지향합니다.
 
 <br/>
 
@@ -21,49 +21,87 @@ Java Spring 기반의 업무 시스템과 API 개발을 중심으로,
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-- 백엔드 개발 경력 **5년+**
-- 주력 기술: **Java, Spring Boot, REST API, MyBatis/JPA, MySQL, Oracle**
-- 업무 도메인 경험: **그룹웨어, HR, ERP, 공공기관 업무시스템, 인증/인가, 파일, 메시징**
-- 비동기 처리 경험: **RabbitMQ, Redis, Scheduler, Celery**
-- 최근 관심사: **AI 업무 자동화, LLM, RAG, Vector DB, FastAPI**
-- 운영 관점에서 **로그 추적, 장애 원인 분석, 배포 검증, 성능/메모리 개선**을 중요하게 생각합니다.
+- 백엔드 개발 경력 5년+
+- 주력 기술: Java, Spring Boot, REST API, MyBatis, JPA, MySQL, Oracle
+- 업무 도메인: 그룹웨어, HR, ERP, 공공기관 업무시스템, 인증/인가, 파일, 메시징
+- 비동기 처리 경험: RabbitMQ, Redis, Scheduler, Celery
+- 최근 관심사: AI 업무 자동화, LLM, RAG, Vector DB, FastAPI
+- 운영 관점에서 로그 추적, 장애 원인 분석, 배포 검증, 성능/메모리 개선을 중요하게 생각합니다.
 
 <br/>
 
 ---
 
-## 🛠 Tech Stack
+## Career
+
+| Period | Company | Role | Main Work |
+| --- | --- | --- | --- |
+| 2024.10 ~ Present | 디딤365㈜ / 디딤㈜ | Backend Developer | Java Spring 기반 그룹웨어, HR, 공공기관 업무시스템, AI Service Platform, RAG/Indexing, AI 이력서 분석 PoC |
+| 2021.06 ~ 2024.10 | 보나캠프㈜ | Backend Developer | ERP, 주문, 인증/인가, 파일, 메시징, RabbitMQ/Redis 기반 비동기 처리, 배치 서비스 개발 |
+
+<br/>
+
+---
+
+## Tech Stack
 
 ### Backend
+
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,gradle,maven,python,fastapi,nodejs" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Framework-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MyBatis-1F1F1F?style=flat-square"/>
+  <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 </p>
 
-### Database / Messaging / Infra
+### Database / Messaging
+
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,redis,rabbitmq,docker,linux,jenkins,github" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Milvus-00A1EA?style=flat-square"/>
+  <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white"/>
+</p>
+
+### Infra / DevOps
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker Compose-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </p>
 
 ### Frontend / Template
+
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,react" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mustache-000000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 </p>
 
 <br/>
 
 ---
 
-## 🚀 Featured Project
+## Featured Project
 
 ### AI Resume Auto Analyzer
 
-> FastAPI 기반 이력서 자동 분석 및 채용공고/JD 매칭 시스템
+FastAPI 기반 이력서 자동 분석 및 채용공고/JD 매칭 시스템
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gwanghun-choi&repo=resume-auto-analyzer&theme=tokyonight)](https://github.com/gwanghun-choi/resume-auto-analyzer)
+Repository: [resume-auto-analyzer](https://github.com/gwanghun-choi/resume-auto-analyzer)
 
-**주요 내용**
+주요 내용
 
 - 채용공고/JD 기준 이력서 적합도 분석
 - LLM 기반 자격요건, 우대사항, 주요업무 추출
@@ -75,7 +113,7 @@ Java Spring 기반의 업무 시스템과 API 개발을 중심으로,
 
 ---
 
-## 💼 Experience Highlights
+## Experience Highlights
 
 ### AI / RAG / Automation
 
@@ -104,22 +142,13 @@ Java Spring 기반의 업무 시스템과 API 개발을 중심으로,
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gwanghun-choi&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gwanghun-choi&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br/>
-
----
-
-## 📌 What I Value
+## Work Style
 
 ```text
 문제를 빠르게 덮는 것보다, 원인을 정확히 이해하는 것을 중요하게 생각합니다.
-기능 구현에서 끝나지 않고, 운영 중 장애가 나지 않는 구조를 고민합니다.
-사용자와 비즈니스에 실제로 도움이 되는 백엔드 시스템을 만들고 싶습니다.
+
+기능 구현에서 끝나지 않고,
+운영 중 장애가 나지 않는 구조를 고민합니다.
+
+사용자와 비즈니스에 실제로 도움이 되는
+백엔드 시스템을 만들고 싶습니다.
