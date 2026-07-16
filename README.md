@@ -13,6 +13,7 @@ Java Spring 기반 업무 시스템과 REST API 개발을 중심으로,
 <br/>
 
 [![Resume](https://img.shields.io/badge/Resume-PDF-2563EB?style=for-the-badge&logo=readme&logoColor=white)](./ChoiGwanghun_resume.pdf)
+[![Velog](https://img.shields.io/badge/Velog-Tech%20Blog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@gwanghun-choi)
 [![Email](https://img.shields.io/badge/Email-choi__huni%40naver.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:choi_huni@naver.com)
 
 </div>
