@@ -39,7 +39,7 @@ Java Spring 기반 업무 시스템과 REST API 개발을 중심으로,
 
 | Period | Company | Role | Main Work |
 | --- | --- | --- | --- |
-| 2024.10 ~ Present | 디딤365㈜ / 디딤㈜ | Backend Developer | Java Spring 기반 그룹웨어, HR, 공공기관 업무시스템, AI Service Platform, RAG/Indexing, AI 이력서 분석 PoC |
+| 2024.10 ~ Present | 디딤365㈜ / 디딤㈜ | Backend Developer | Java Spring 기반 그룹웨어, HR, 공공기관 SI, AI Service Platform, RAG/Indexing, AI 이력서 분석 PoC |
 | 2021.06 ~ 2024.10 | 보나캠프㈜ | Backend Developer | ERP, 주문, 인증/인가, 파일, 메시징, RabbitMQ/Redis 기반 비동기 처리, 배치 서비스 개발 |
 
 <br/>
