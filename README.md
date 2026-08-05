@@ -111,6 +111,41 @@ Java Spring 기반 업무 시스템과 REST API 개발을 중심으로,
 
 ## Featured Project
 
+### MCP Server
+
+MCP 클라이언트와 외부 도구를 연결하고, 사용자별 도구 노출 정책과 실행 제어를 제공하는 범용 MCP Gateway 서버
+
+Repository: [mcp-server](https://github.com/gwanghun-choi/mcp-server)
+
+주요 내용
+
+- MCP `tools/list`, `tools/call` 요청 처리
+- 사용자별 MCP 도구 선택 및 노출 정책
+- Tool 위험도, Scope, 사용자 확인 정책 기반 실행 제어
+- 외부 Credential Service 연동 및 Credential Injection
+- 관리자 Tool 관리 및 감사 로그 구조
+- FastAPI, PostgreSQL 기반 MCP Backend 구성
+
+<br/>
+
+### Vault Server
+
+사용자 인증, API Key, Resource, Credential을 관리하고 HashiCorp Vault와 연동하는 Credential 관리 서버
+
+Repository: [vault-server](https://github.com/gwanghun-choi/vault-server)
+
+주요 내용
+
+- LOCAL 로그인, JWT, Refresh Token, API Key 인증
+- Server, Website, API Resource 관리
+- 개인 및 공통 Resource Scope 처리
+- HashiCorp Vault 기반 Credential 저장 및 참조
+- Token Exchange 및 Credential 전달 구조
+- Secret Reveal 제한과 감사 로그 적용
+- FastAPI, PostgreSQL, Alembic 기반 Backend 구성
+
+<br/>
+
 ### AI Resume Auto Analyzer
 
 FastAPI 기반 이력서 자동 분석 및 채용공고/JD 매칭 시스템
@@ -125,7 +160,34 @@ Repository: [resume-auto-analyzer](https://github.com/gwanghun-choi/resume-auto-
 - FastAPI 기반 분석 실행 API 및 관리 화면 구성
 - 반복적인 수동 이력서 검토 업무를 줄이기 위한 AI 업무 자동화 PoC
 
-<br/>
+---
+
+## Project Architecture
+
+```text
+MCP Client
+    │
+    ▼
+MCP Server
+    │
+    ├── Tool Discovery
+    ├── Tool Policy
+    ├── User Tool Selection
+    ├── Scope / Confirmation
+    └── Audit Log
+    │
+    ▼
+Vault Server
+    │
+    ├── Authentication
+    ├── API Key
+    ├── Resource Management
+    ├── Credential Policy
+    └── Token Exchange
+    │
+    ▼
+HashiCorp Vault
+```
 
 ---
 
