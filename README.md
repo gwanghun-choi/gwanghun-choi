@@ -63,7 +63,6 @@ Java Spring 기반 업무 시스템과 REST API 개발을 중심으로,
 
 ### AI / LLM
 
-
 <p> 
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/> 
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/> 
@@ -110,6 +109,26 @@ Java Spring 기반 업무 시스템과 REST API 개발을 중심으로,
 ---
 
 ## Featured Project
+
+### Minutes
+
+회의 음성을 검색 가능한 지식과 관계형 회의 정보로 변환하고, 사용자별 접근 권한 범위에서 대화형 검색을 제공하는 Meeting Intelligence / RAG 시스템
+
+Repository: [minutes](https://github.com/gwanghun-choi/minutes)
+
+주요 내용
+
+- `faster-whisper` 기반 STT와 `pyannote` 기반 화자 분리를 통한 화자별 회의록 생성
+- STT 결과를 사람이 검토·승인한 이후에만 검색 지식으로 반영하는 HITL(Human-in-the-Loop) 구조
+- 발화 흐름을 보존하는 utterance-aware chunking과 BGE-M3 임베딩 적용
+- PostgreSQL `pgvector`와 Kiwi 형태소 분석을 이용한 Dense + Lexical Hybrid Search 및 RRF 검색
+- 요청, 결정, Action Item과 요청자·담당자·결정자·기한을 구조화한 Meeting Intelligence 구현
+- 사용자별 회의 소유권, 공유 초대/수락 및 Private / Shared RAG 검색 범위 제어
+- 검색 결과의 원본 발화 및 회의 구간을 연결하는 출처 기반 RAG 응답 구성
+- FastAPI, PostgreSQL, React 기반 Web Application 구성
+- Docker, Kubernetes, Jenkins, ArgoCD 기반 CI/CD 및 배포 구조 구성
+
+<br/>
 
 ### MCP Server
 
@@ -230,3 +249,4 @@ HashiCorp Vault
 
 사용자와 비즈니스에 실제로 도움이 되는
 백엔드 시스템을 만들고 싶습니다.
+```
